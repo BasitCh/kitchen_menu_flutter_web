@@ -1,0 +1,10 @@
+package_rename_config:
+  android:
+    app_name: Menu Master
+    package_name: com.menu.master
+    override_old_package: com.example.menumaster
+
+  ios:
+    app_name: Menu Master
+    bundle_name: menumaster
+    package_name: com.menu.master

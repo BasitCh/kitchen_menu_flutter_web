@@ -1,0 +1,787 @@
+{
+  "@@locale": "de",
+  "appName": "Menu Master",
+  "@appName": {
+    "type": "text",
+    "description": "Application Name"
+  },
+  "common_cancel": "Abbrechen",
+  "@common_cancel": {
+    "type": "text"
+  },
+  "continue": "Continue",
+      "@continue": {
+        "type": "text"
+      },
+  "common_confirm": "Bestätigen",
+  "@common_confirm": {
+    "type": "text"
+  },
+  "common_next": "Next",
+  "@common_next": {
+    "type": "text"
+  },
+  "common_confirm_message": "Sind Sie sicher??",
+  "@common_confirm_message": {
+    "type": "text"
+  },
+  "common_detail": "Detail",
+  "@common_detail": {
+    "type": "text"
+  },
+  "common_edit": "Edit",
+  "@common_edit": {
+    "type": "text"
+  },
+  "common_delete": "Löschen",
+  "@common_delete": {
+    "type": "text"
+  },
+  "common_error": "Etwas ist schief gelaufen",
+  "@common_error": {
+    "type": "text"
+  },
+  "common_fetchError": "Leider konnten keine Daten zu dieser Anfrage gefunden werden...",
+  "@common_fetchError": {
+    "type": "text"
+  },
+  "common_field_date": "Datum",
+  "@common_field_date": {
+    "type": "text"
+  },
+  "common_field_mandatory": "Dieses Feld ist obligatorisch.",
+  "@common_field_mandatory": {
+    "type": "text"
+  },
+  "common_field_empty": "Bitte geben Sie einen Wert ein",
+  "@common_field_empty": {
+    "type": "text"
+  },
+  "common_field_time": "Zeit",
+  "@common_field_time": {
+    "type": "text"
+  },
+  "common_form_validation": "Einige Felder sind leer oder ungültig.",
+  "@common_form_validation": {
+    "type": "text"
+  },
+  "common_reset": "Löschen",
+  "@common_reset": {
+    "type": "text"
+  },
+  "common_refresh": "Aktualisieren",
+  "@common_refresh": {
+    "type": "text"
+  },
+  "common_save": "Speichern",
+  "@common_save": {
+    "type": "text"
+  },
+  "common_search": "Suche",
+  "@common_search": {
+    "type": "text"
+  },
+  "common_search_term": "Geben Sie einen Suchbegriff ein",
+  "@common_search_term": {
+    "type": "text"
+  },
+  "common_select": "Wähle",
+  "@common_select": {
+    "type": "text"
+  },
+  "common_submit": "Submit",
+  "@common_submit": {
+    "type": "text"
+  },
+  "common_was_success": "war erfolgreich",
+  "@common_was_success": {
+    "type": "text"
+  },
+  "common_upload": "Hochladen",
+  "@common_upload": {
+    "type": "text"
+  },
+  "common_upload_progress": "wird hochgeladen",
+  "@common_upload_progress": {
+    "type": "text"
+  },
+  "common_validate": "Bitte valides ID format eingeben",
+  "@common_validate": {
+    "type": "text"
+  },
+  "common_menu": "Menü Anzeigen / Schließen",
+  "@common_menu": {
+    "type": "text"
+  },
+  "forgot_password_text": "Forgot Password",
+      "@forgot_password_text": {
+        "type": "text"
+      },
+      "login_enter_your_email":"Enter your Email address for to reset \n the password",
+          "@login_enter_your_email": {
+            "type": "text"
+          },
+
+       "login_enter_your_email":"Enter your Email address for to reset \n the password",
+               "@login_enter_your_email": {
+                 "type": "text"
+               },
+               "reset_password_button_text":"Reset password",
+                            "@reset_password_button_text": {
+                              "type": "text"
+                            },
+                            "login_now_button_text":"login now",
+
+                             "@login_now_button_text": {
+                                           "type": "text"
+                                         },
+
+                                    "success_appbar_text":"Success",
+
+                                     "@success_appbar_text": {
+                                                   "type": "text"
+                                                 },
+
+                                                 "password_reset_title_text":"Password updated",
+
+                                                          "@password_reset_title_text": {
+                                                                        "type": "text"
+                                                                      },
+                                                                       "password_updated_text":"Your password has been updated. please \n login to continue using the app. ",
+
+                                                                                                    "@password_updated_text": {
+                                                                                                                  "type": "text"
+                                                                                                                },
+  "common_go_back": "Zurück zum vorherigen Bildschirm",
+  "@common_go_back": {
+    "type": "text"
+  },
+  "common_unknown_user": "Unbekannter Benutzername",
+  "@story_detail_add_comment": {
+    "type": "text"
+  },
+  "common_success": "Success",
+  "@common_success": {
+    "type": "text"
+  },
+  "common_got_it": "GOT IT",
+  "@common_got_it": {
+    "type": "text"
+  },
+  "common_try_again": "TRY AGAIN",
+  "@common_try_again": {
+    "type": "text"
+  },
+  "common_no_internet": "No Internet",
+  "@common_no_internet": {
+    "type": "text"
+  },
+  "common_no_internet_description": "Just like a reliable ingredient, a stable internet connection is essential. Please check your internet connection and try again",
+  "@common_no_internet_description": {
+    "type": "text"
+  },
+  "home_screen_title": "Home",
+  "@home_screen_title": {
+    "type": "text"
+  },
+  "info_appNames": "Name Anwendung",
+  "@info_appNames": {
+    "type": "text"
+  },
+  "info_appVersion": "Software Version",
+  "@info_appVersion": {
+    "type": "text"
+  },
+  "info_buildNumber": "Build Nummer",
+  "@info_buildNumber": {
+    "type": "text"
+  },
+  "info_buildSignature": "Build Signatur",
+  "@info_buildSignature": {
+    "type": "text"
+  },
+  "info_infoName": "Über...",
+  "@info_infoName": {
+    "type": "text"
+  },
+  "info_notSet": "nicht bekannt",
+  "@info_notSet": {
+    "type": "text"
+  },
+  "info_packageName": "Paket Name",
+  "@info_packageName": {
+    "type": "text"
+  },
+  "signup_verify_your_email": "Please verify your email",
+  "@signup_verify_your_email": {
+    "type": "text"
+  },
+  "splash_loading": "LOADING...",
+  "@splash_loading": {
+    "type": "text"
+  },
+  "signup_create_account": "Create account",
+  "@signup_create_account": {
+    "type": "text"
+  },
+  "signup_email_and_password_for_signup": "Email and Password for sign up.",
+  "@signup_email_and_password_for_signup": {
+    "type": "text"
+  },
+  "signup_already_have_account": "Already have account?",
+  "@signup_already_have_account": {
+    "type": "text"
+  },
+  "signup_email_address": "Email address",
+  "@signup_email_address": {
+    "type": "text"
+  },
+  "signup_password": "Password",
+  "@signup_password": {
+    "type": "text"
+  },
+  "signup_confirm_password": "Confirm Password",
+  "@signup_confirm_password": {
+    "type": "text"
+  },
+  "signup_button": "sign up",
+  "@signup_button": {
+    "type": "text"
+  },
+  "signup_by_signing_up": "By Signing up you agree to our ",
+  "@signup_by_signing_up": {
+    "type": "text"
+  },
+  "signup_terms_condition": "Terms Conditions",
+  "@signup_terms_condition": {
+    "type": "text"
+  },
+  "signup_and": " & ",
+  "@signup_and": {
+    "type": "text"
+  },
+  "signup_privacy_policy": "Privacy Policy.",
+  "@signup_privacy_policy": {
+    "type": "text"
+  },
+  "signup_an_email_verification_link_sent": "An email Verification Link has been sent to your account.",
+  "@signup_an_email_verification_link_sent": {
+    "type": "text"
+  },
+  "account_created": "Account Created",
+  "@account_created": {
+    "type": "text"
+  },
+  "account_created_verified": "Account Verified",
+  "@account_created_verified": {
+    "type": "text"
+  },
+  "account_created_your_account_has_been_created": "Your account has been created successfully. \nNow you can set up your profile",
+  "@account_created_your_account_has_been_created": {
+    "type": "text"
+  },
+  "account_created_setup_profile": "Setup profile",
+  "@account_created_setup_profile": {
+    "type": "text"
+  },
+  "login_title": "Login",
+  "@login_title": {
+    "type": "text"
+  },
+  "login_enter_your_phone_number_or_email": "Enter your Phone number or Email address for \n sign in.",
+  "@login_enter_your_phone_number_or_email": {
+    "type": "text"
+  },
+  "login_forgot_password": "Forgot Password?",
+  "@login_forgot_password": {
+    "type": "text"
+  },
+  "login_sign_in": "Sign in",
+  "@login_sign_in": {
+    "type": "text"
+  },
+  "login_dont_have_account": "Don’t have account?",
+  "@login_dont_have_account": {
+    "type": "text"
+  },
+  "login_create_new_account": "Create new account.",
+  "@login_create_new_account": {
+    "type": "text"
+  },
+  "setup_profile": "Setup profile",
+  "@setup_profile": {
+    "type": "text"
+  },
+  "setup_profile_enter_the_required_information_to_complete": "Enter the required information to complete the profile setup process",
+  "@setup_profile_enter_the_required_information_to_complete": {
+    "type": "text"
+  },
+  "setup_profile_upload_profile_photo": "Upload profile photo",
+  "@setup_profile_upload_profile_photo": {
+    "type": "text"
+  },
+  "setup_profile_full_name": "FULL NAME",
+  "@setup_profile_full_name": {
+    "type": "text"
+  },
+  "setup_profile_personal_info": "Personal Info",
+  "@setup_profile_personal_info": {
+    "type": "text"
+  },
+  "setup_profile_phone_number": "PHONE NUMBER",
+  "@setup_profile_phone_number": {
+    "type": "text"
+  },
+  "setup_profile_address": "Address",
+  "@setup_profile_address": {
+    "type": "text"
+  },
+  "setup_profile_country": "COUNTRY",
+  "@setup_profile_country": {
+    "type": "text"
+  },
+  "setup_profile_select_country": "Select country",
+  "@setup_profile_select_country": {
+    "type": "text"
+  },
+  "setup_profile_state": "State",
+  "@setup_profile_state": {
+    "type": "text"
+  },
+  "setup_profile_street_address": "STREET ADDRESS (OPTIONAL)",
+  "@setup_profile_street_address": {
+    "type": "text"
+  },
+  "setup_profile_subscription": "Subscription",
+  "@setup_profile_subscription": {
+    "type": "text"
+  },
+  "setup_profile_select_your_monthly_subscription": "SELECT YOUR MONTHLY SUBSCRIPTION",
+  "@setup_profile_select_your_monthly_subscription": {
+    "type": "text"
+  },
+  "setup_profile_free": "Free",
+  "@setup_profile_free": {
+    "type": "text"
+  },
+  "setup_profile_upload_and_view_two_recipes": "Upload & view two recipes",
+  "@setup_profile_upload_and_view_two_recipes": {
+    "type": "text"
+  },
+  "setup_profile_premium_$35_per_month": "Premium $35 / Month",
+  "@setup_profile_premium_$35_per_month": {
+    "type": "text"
+  },
+  "setup_profile_create_upload_and_view_unlimited_recipes": "Create, Upload & View unlimited recipes",
+  "@setup_profile_create_upload_and_view_unlimited_recipes": {
+    "type": "text"
+  },
+  "setup_profile_about": "About",
+  "@setup_profile_about": {
+    "type": "text"
+  },
+  "setup_profile_tell_more_about_you": "TELL MORE ABOUT YOU",
+  "@setup_profile_tell_more_about_you": {
+    "type": "text"
+  },
+  "setup_profile_save_profile": "SAVE PROFILE",
+  "@setup_profile_save_profile": {
+    "type": "text"
+  },
+  "welcome_title": "Welcome",
+  "@welcome_title": {
+    "type": "text"
+  },
+  "welcome_tailored_just_for_you": "Tailored just for You",
+  "@welcome_tailored_just_for_you": {
+    "type": "text"
+  },
+  "welcome_goodbye_labour_intensive_processes": "Goodbye labour-intensive processes. Hello streamlined efficiency. Unique recipes with portion sizes tailored to suit feeding pre-school children and a supportive community of like minded cooks.",
+  "@welcome_goodbye_labour_intensive_processes": {
+    "type": "text"
+  },
+  "welcome_got_it": "Got it  ",
+  "@welcome_got_it": {
+    "type": "text"
+  },
+  "home_search_for_plans_recipes": "Search for plans & recipes",
+  "@home_search_for_plans_recipes": {
+    "type": "text"
+  },
+  "home_welcome_to_menu_master": "Welcome to Menu Master",
+  "@home_welcome_to_menu_master": {
+    "type": "text"
+  },
+  "home_menu_master_recipes": "Menu Master Recipes",
+  "@home_menu_master_recipes": {
+    "type": "text"
+  },
+  "home_view_menu_master_recipes": "View menu master recipes",
+  "@home_view_menu_master_recipes": {
+    "type": "text"
+  },
+  "home_menu": "Menu",
+  "@home_menu": {
+    "type": "text"
+  },
+  "home_my_recipes": "My Recipes",
+  "@home_my_recipes": {
+    "type": "text"
+  },
+  "home_my_revolving_menu": "My revolving menu",
+  "@home_my_revolving_menu": {
+    "type": "text"
+  },
+  "home_view_all_my_recipes": "View all my recipes",
+  "@home_view_all_my_recipes": {
+    "type": "text"
+  },
+  "home_recently_added": "Recently added",
+  "@home_recently_added": {
+    "type": "text"
+  },
+  "home_recipes_recently_added_by": "Recipes Recently added by ",
+  "@home_recipes_recently_added_by": {
+    "type": "text"
+  },
+  "home_crepe_quiche_cups": "Crepe quiche cups",
+  "@home_crepe_quiche_cups": {
+    "type": "text"
+  },
+  "home_breakfast": "Breakfast",
+  "@home_breakfast": {
+    "type": "text"
+  },
+  "home_details": "Details",
+  "@home_details": {
+    "type": "text"
+  },
+  "nav_bar_recipes": "Recipes",
+  "@home_recipes": {
+    "type": "text"
+  },
+  "nav_bar_menus": "Menus",
+  "@nav_bar_menus": {
+    "type": "text"
+  },
+  "nav_bar_profile": "Profile",
+  "@nav_bar_profile": {
+    "type": "text"
+  },
+  "all_recipes_title": "All Recipes",
+  "@all_recipes_title": {
+    "type": "text"
+  },
+  "all_recipes_list_of_all_recipes": "List of all recipes",
+  "@all_recipes_list_of_all_recipes": {
+    "type": "text"
+  },
+  "all_recipes_select_category": "Select Category",
+  "@all_recipes_select_category": {
+    "type": "text"
+  },
+  "all_recipes_filters": "Filters",
+  "@all_recipes_filters": {
+    "type": "text"
+  },
+  "all_recipes_select_filters": "Select Filters",
+  "@all_recipes_select_filters": {
+    "type": "text"
+  },
+  "all_recipes_reset_filters": "Reset Filters",
+  "@all_recipes_reset_filters": {
+    "type": "text"
+  },
+  "all_recipes_select_one_or_more": "Select one or more filters from the following list that are applicable.",
+  "@all_recipes_select_one_or_more": {
+    "type": "text"
+  },
+  "all_recipes_apply_filters": "APPLY FILTERS",
+  "@all_recipes_apply_filters": {
+    "type": "text"
+  },
+  "all_recipes_applied_filters": "Applied Filters",
+  "@all_recipes_applied_filters": {
+    "type": "text"
+  },
+  "all_recipes_clear_filters": "Clear Filters",
+  "@all_recipes_clear_filters": {
+    "type": "text"
+  },
+  "create_recipe_title": "Create recipe",
+  "@create_recipe_title": {
+    "type": "text"
+  },
+  "create_recipe_create_a_recipe": "Create a recipe",
+  "@create_recipe_create_a_recipe": {
+    "type": "text"
+  },
+  "create_recipe_enter_the_basic_information_of_your_recipe": "Enter the basic information of your recipe i.e; photos, name, description etc.",
+  "@create_recipe_enter_the_basic_information_of_your_recipe": {
+    "type": "text"
+  },
+  "create_recipe_basic_info": "BASIC INFO",
+  "@create_recipe_basic_info": {
+    "type": "text"
+  },
+  "create_recipe_category_filters": "CATEGORY & FILTERS",
+  "@create_recipe_category_filters": {
+    "type": "text"
+  },
+  "create_recipe_step_1_4": "(Step 1/4)",
+  "@create_recipe_step_1_4": {
+    "type": "text"
+  },
+  "create_recipe_step_2_4": "(Step 2/4)",
+  "@create_recipe_step_2_4": {
+    "type": "text"
+  },
+  "create_recipe_step_3_4": "(Step 3/4)",
+  "@create_recipe_step_3_4": {
+    "type": "text"
+  },
+  "create_recipe_step_4_4": "(Step 4/4)",
+  "@create_recipe_step_4_4": {
+    "type": "text"
+  },
+  "create_recipe_upload_photos": "Upload photos",
+  "@create_recipe_upload_photos": {
+    "type": "text"
+  },
+  "create_recipe_tap_to_upload_the_photos": "(tap to upload the photos)",
+  "@create_recipe_tap_to_upload_the_photos": {
+    "type": "text"
+  },
+  "create_recipe_recipe_name": "RECIPE NAME",
+  "@create_recipe_recipe_name": {
+    "type": "text"
+  },
+  "create_recipe_asteric": " *",
+  "@create_recipe_asteric": {
+    "type": "text"
+  },
+  "create_recipe_give_your_recipe_a_name": "Give your recipe a name",
+  "@create_recipe_give_your_recipe_a_name": {
+    "type": "text"
+  },
+  "create_recipe_recipe_description": "RECIPE DESCRIPTION",
+  "@create_recipe_recipe_description": {
+    "type": "text"
+  },
+  "create_recipe_introduce_your_recipe_add_notes": "Introduce your recipe, add notes, cooking tips, serving suggestions, etc...",
+  "@create_recipe_introduce_your_recipe_add_notes": {
+    "type": "text"
+  },
+  "create_recipe_prep_time": "PREP TIME",
+  "@create_recipe_prep_time": {
+    "type": "text"
+  },
+  "create_recipe_how_long_does_it_takes_to_prepare": "How long does it take to prepare this recipe?",
+  "@create_recipe_how_long_does_it_takes_to_prepare": {
+    "type": "text"
+  },
+  "create_recipe_hours_0": "Hours: 0",
+  "@create_recipe_hours_0": {
+    "type": "text"
+  },
+  "create_recipe_minutes_0": "Minutes: 0",
+  "@create_recipe_minutes_0": {
+    "type": "text"
+  },
+  "create_recipe_cook_time": "COOK TIME",
+  "@create_recipe_cook_time": {
+    "type": "text"
+  },
+  "create_recipe_how_long_does_it_takes_to_cook": "How long does it take to cook this recipe?",
+  "@create_recipe_how_long_does_it_takes_to_cook": {
+    "type": "text"
+  },
+  "create_recipe_empty_name_validation": "Please enter a recipe name",
+  "@create_recipe_empty_name_validation": {
+    "type": "text"
+  },
+  "create_recipe_empty_description_validation": "Please enter recipe description",
+  "@create_recipe_empty_description_validation": {
+    "type": "text"
+  },
+  "create_recipe_empty_hours_validation": "Please enter hours",
+  "@create_recipe_empty_prep_hours_validation": {
+    "type": "text"
+  },
+  "create_recipe_empty_minutes_validation": "Please enter minutes",
+  "@create_recipe_empty_prep_minutes_validation": {
+    "type": "text"
+  },
+  "create_recipe_select_a_category": "Select a Category",
+  "@create_recipe_select_a_category": {
+    "type": "text"
+  },
+  "create_recipe_allergies": "Allergies",
+  "@create_recipe_allergies": {
+    "type": "text"
+  },
+  "create_recipe_ingredients": "INGREDIENTS",
+  "@create_recipe_ingredients": {
+    "type": "text"
+  },
+  "create_recipe_add_ingredients_for": "ADD INGREDIENTS FOR ",
+  "@create_recipe_add_ingredients_for": {
+    "type": "text"
+  },
+  "create_recipe_qty": "Qty",
+  "@create_recipe_qty": {
+    "type": "text"
+  },
+  "create_recipe_nzd": "NZD",
+  "@create_recipe_nzd": {
+    "type": "text"
+  },
+  "create_recipe_view_nutritional_values": "View nutritional values",
+  "@create_recipe_view_nutritional_values": {
+    "type": "text"
+  },
+  "create_recipe_estimated_cost": "Estimated cost",
+  "@create_recipe_estimated_cost": {
+    "type": "text"
+  },
+  "create_recipe_List_of_children_with": "LIST OF CHILDREN WITH",
+  "@create_recipe_List_of_children_with": {
+    "type": "text"
+  },
+  "create_recipe_name": "Name",
+  "@create_recipe_name": {
+    "type": "text"
+  },
+  "create_recipe_room_name": "Room Name",
+  "@create_recipe_room_name": {
+    "type": "text"
+  },
+  "create_recipe_got_it": "GOT IT",
+  "@create_recipe_got_it": {
+    "type": "text"
+  },
+  "create_recipe_add_edit_filters": "ADD / EDIT FILTERS",
+  "@create_recipe_add_edit_filters": {
+    "type": "text"
+  },
+  "create_recipe_no_ingredients_added_yet": "No ingredients added yet",
+  "@create_recipe_no_ingredients_added_yet": {
+    "type": "text"
+  },
+  "create_recipe_nutrition_information": "NUTRITION INFORMATION",
+  "@create_recipe_nutrition_information": {
+    "type": "text"
+  },
+  "create_recipe_nutrition_per_child": "Nutrition per child",
+  "@create_recipe_nutrition_per_child": {
+    "type": "text"
+  },
+  "create_recipe_daily_value": "Daily Value",
+  "@create_recipe_daily_value": {
+    "type": "text"
+  },
+  "create_recipe_prep_steps": "PREP STEPS",
+  "@create_recipe_prep_steps": {
+    "type": "text"
+  },
+  "create_recipe_add_preparation_steps": "ADD PREPARATION STEPS",
+  "@create_recipe_add_preparation_steps": {
+    "type": "text"
+  },
+  "create_recipe_step": "Step",
+  "@create_recipe_step": {
+    "type": "text"
+  },
+  "create_recipe_finish_and_review": "FINISH & REVIEW",
+  "@create_recipe_finish_and_review": {
+    "type": "text"
+  },
+  "review_recipe": "Review recipe",
+  "@review_recipe": {
+    "type": "text"
+  },
+  "review_recipe_title": "Review",
+  "@review_recipe_title": {
+    "type": "text"
+  },
+  "review_recipe_make_changes": "MAKE CHANGES",
+  "@review_recipe_make_changes": {
+    "type": "text"
+  },
+  "review_recipe_publish_recipe": "PUBLISH RECIPE",
+  "@review_recipe_publish_recipe": {
+    "type": "text"
+  },
+  "review_recipe_ingredients_for": "INGREDIENTS FOR",
+  "@review_recipe_ingredients_for": {
+    "type": "text"
+  },
+  "review_recipe_preparation_step": "PREPARATION STEPS",
+  "@review_recipe_preparation_step": {
+    "type": "text"
+  },
+  "messages_error": "Error",
+  "@messages_error": {
+    "type": "text"
+  },
+  "create_recipe_please_select_images": "Please select recipe images.",
+  "@create_recipe_please_select_images": {
+    "type": "text"
+  },
+  "create_recipe_please_select_category": "Please select a category.",
+  "@create_recipe_please_select_category": {
+    "type": "text"
+  },
+  "create_recipe_please_add_ingredients": "Please add ingredients.",
+  "@create_recipe_please_add_ingredients": {
+    "type": "text"
+  },
+  "create_recipe_please_add_preparation_steps": "Please add preparation steps.",
+  "@create_recipe_please_add_preparation_steps": {
+    "type": "text"
+  },
+  "all_recipes_upgrade_your_plan": "Upgrade your plan to view more recipes",
+  "@all_recipes_upgrade_your_plan": {
+    "type": "text"
+  },
+  "all_recipes_get_premium_now": "Get premium now",
+  "@all_recipes_get_premium_now": {
+    "type": "text"
+  },
+  "all_recipes_get_premium": "Get premium",
+  "@all_recipes_get_premium": {
+    "type": "text"
+  },
+  "create_recipe_free_recipes": "Free Recipes:",
+  "@create_recipe_free_recipes": {
+    "type": "text"
+  },
+  "create_recipe_free_limit_reached": "FREE LIMIT REACHED",
+  "@create_recipe_free_limit_reached": {
+    "type": "text"
+  },
+  "create_recipe_you_have_created_2_2_recipes": "You have created 2/2 free recipes. Unlock",
+  "@create_recipe_you_have_created_2_2_recipes": {
+    "type": "text"
+  },
+  "create_recipe_premium": "premium",
+  "@create_recipe_premium": {
+    "type": "text"
+  },
+  "create_to_create_and_view_unlimited_recipes": "to create & view unlimited recipes.",
+  "@create_to_create_and_view_unlimited_recipes": {
+    "type": "text"
+  },
+  "forgot_password_password_reset_email_sent": "Password Reset Email Sent",
+  "@forgot_password_password_reset_email_sent": {
+    "type": "text"
+  },
+  "forgot_password_to_reset_your_password": "To reset your password please check your email and follow the link.",
+  "@forgot_password_to_reset_your_password": {
+    "type": "text"
+  },
+  "messages_logged_in": "Logged in",
+  "@messages_logged_in": {
+    "type": "text"
+  }
+}

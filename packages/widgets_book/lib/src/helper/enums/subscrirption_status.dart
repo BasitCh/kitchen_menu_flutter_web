@@ -1,0 +1,4 @@
+enum SubscriptionStatusEnum{
+  Active,
+  Inactive,
+}
